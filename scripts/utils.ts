@@ -5,6 +5,7 @@ export const SCHEMAS = [
     { schema: 'bytes32 schemaId,string description', name: 'Schema Description' },
     { schema: 'bytes32 schemaId,string context', name: 'Schema Context' },
     { schema: 'bytes32 schemaId,[]string attestor', name: 'Valid Schema Attestors' },
+    { schema: 'string cik,string ticker,string exchange,string companyNameIssuer', name: 'SEC Issuer' },
 
     // { schema: 'bool like', name: 'Like' },
     // { schema: 'address contractAddress,bool trusted', name: 'Trust a Contract' },
