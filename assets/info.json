@@ -1,0 +1,21 @@
+{
+    "name": "BNB Attestation Service",
+    "website": "https://bas.opbnb.com",
+    "description": "The BNB Attestation Service (BAS) is an infrastructure built on the BNB ecosystem for generating attestations to verify information. BAS assists users in on-chain or off-chain verification, allowing them to assert ownership of attestation by storing them in Greenfield.",
+    "explorer": "https://bscscan.com/address/0x247Fe62d887bc9410c3848DF2f322e52DA9a51bC",
+    "research": "",
+    "type": "BEP20",
+    "symbol": "BAS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x247Fe62d887bc9410c3848DF2f322e52DA9a51bC",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/atze1210/bas-contract"
+        }
+    ]
+}
